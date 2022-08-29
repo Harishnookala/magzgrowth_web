@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>804590897348-rd95dplo9m83a499uj8c9h64qggaftfi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.804590897348-rd95dplo9m83a499uj8c9h64qggaftfi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>804590897348-bsm6bo2ur4tc4p5upargg172gab8c4mj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCA0Up9Z9o9mf5U6uAhlZiO2wERMpYE_Yk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>804590897348</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Ovation.magzgrowthWeb</string>
+	<key>PROJECT_ID</key>
+	<string>magzgrowth-e18af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>magzgrowth-e18af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:804590897348:ios:c713fbcc844874fd9e6191</string>
+	<key>DATABASE_URL</key>
+	<string>https://magzgrowth-e18af-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

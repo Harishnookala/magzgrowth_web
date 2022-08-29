@@ -1,0 +1,26 @@
+[
+  {
+    "family": "Poppins",
+    "fonts": [
+      {
+        "asset": "assets/Fonts/Poppins-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Poppins-Medium",
+    "fonts": [
+      {
+        "asset": "assets/Fonts/Poppins-Medium.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Poppins-Light",
+    "fonts": [
+      {
+        "asset": "assets/Fonts/Poppins-Light.ttf"
+      }
+    ]
+  }
+]
